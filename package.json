@@ -35,7 +35,7 @@
     "aws-sdk": "^2.268.1",
     "axios": "^0.15.3",
     "cheerio": "^0.22.0",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.1",
     "uuid": "^2.0.3"
   },
   "devDependencies": {
